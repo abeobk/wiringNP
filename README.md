@@ -1,15 +1,15 @@
 # Create /etc/sys_info
 
-sunxi_platform  : Sun8iw7p1 
-sunxi_secure    : normal  
-sunxi_chipid    : unsupported 
-sunxi_chiptype  : unsupported 
-sunxi_batchno   : unsupported 
-sunxi_board_id  : 5(0)  
+sunxi_platform  : Sun8iw7p1     
+sunxi_secure    : normal        
+sunxi_chipid    : unsupported     
+sunxi_chiptype  : unsupported     
+sunxi_batchno   : unsupported     
+sunxi_board_id  : 5(0)      
 
-board_id:   
-1(0) -> NanoPi Core 
-5(0) -> NanoPi NeoCore  
+board_id:               
+1(0) -> NanoPi Core       
+5(0) -> NanoPi NeoCore        
 
 
 
