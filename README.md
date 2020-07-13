@@ -9,7 +9,7 @@ sunxi_board_id  : 5(0)
 
 board_id: 
 1(0) -> NanoPi Core
-5(0) -> NanoPi NeoCore
+5(0) -> NanoPi NeoCore 
 
 
 
