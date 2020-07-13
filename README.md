@@ -1,3 +1,18 @@
+# Create /etc/sys_info
+
+sunxi_platform  : Sun8iw7p1
+sunxi_secure    : normal
+sunxi_chipid    : unsupported
+sunxi_chiptype  : unsupported
+sunxi_batchno   : unsupported
+sunxi_board_id  : 5(0)
+
+board_id: 
+1(0) -> NanoPi Core
+5(0) -> NanoPi NeoCore
+
+
+
 # WiringNP
 This is a GPIO access library for NanoPi. It is based on the WiringOP for Orange PI which is based on original WiringPi for Raspberry Pi.
 
